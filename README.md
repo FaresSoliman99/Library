@@ -28,12 +28,8 @@ The project emphasizes **clean design, modern layout, and frontend best practice
 - HTML5  
 - CSS3  
 - JavaScript (ES6)  
-- Java  
-- React  
 - Bootstrap  
 - Git & GitHub  
-- MySQL  
-- Sass  
 
 ---
 
@@ -42,11 +38,16 @@ The project emphasizes **clean design, modern layout, and frontend best practice
 ```
 
 Library/
-├── css/                # Stylesheets
-├── images/             # Images & assets
-├── webfonts/           # Fonts
-├── index.html          # Main landing page
-└── README.md           # Documentation
+├── css/                
+# Stylesheets
+├── images/             
+# Images & assets
+├── webfonts/           
+# Fonts
+├── index.html          
+# Main landing page
+└── README.md           
+# Documentation
 
 ````
 
