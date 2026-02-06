@@ -1,35 +1,78 @@
+تمام 💪
+هأرسل لك الآن **README كامل للـ Library** بعد تعديل Tech Stack لتظهر **كصور حقيقية PNG** على GitHub بدون روابط نصية، مع كل الصور الفعلية من مجلد المشروع، أسلوب Portfolio جذاب، جاهز للنسخ مباشرة.
 
 ```markdown
 # 📚 Library Landing Page
 
 Welcome to **Library**, a modern and fully responsive landing page for a library or book showcase website.  
-This project highlights clean design, structured content, and interactive elements built with **HTML, CSS, and JavaScript**.
+Built with **HTML, CSS, and JavaScript**, this project demonstrates professional UI/UX, structured sections, and interactive frontend features.
 
-![Library Preview](https://via.placeholder.com/900x300?text=Library+Landing+Page+Preview)
+![Library Hero Section](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/hero.png)
 
 ---
 
-## ✨ Project Highlights
+## ✨ Project Sections
 
-- Responsive layout (Desktop / Tablet / Mobile)  
-- Clean and modern UI/UX ش 
-- Navigation bar, featured books, categories, and footer sections  
-- Smooth scrolling & interactive buttons  
-- Easy-to-read typography and structured content  
-- Lightweight and fast static website  
+### 1️⃣ Hero Section
+A clean and engaging banner highlighting the library's mission and featured books.  
+![Hero Section](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/hero.png)
+
+### 2️⃣ Featured Books
+Showcases popular or recommended books with images and descriptions.  
+![Featured Books](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/featured-books.png)
+
+### 3️⃣ Categories
+Displays different book categories or genres for easy navigation.  
+![Book Categories](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/categories.png)
+
+### 4️⃣ Call to Action / Footer
+Encourages users to explore more books or contact the library.  
+![Footer Section](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/footer.png)
+
+### 5️⃣ Interactive Demo
+Smooth scrolling and hover effects in action:  
+![Demo GIF](https://raw.githubusercontent.com/FaresSoliman99/Library/main/images/demo.gif)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Flexbox-29A9DE?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
-  <img src="https://img.shields.io/badge/Grid-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/WebFonts-000000?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Web Fonts"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="60" alt="Java"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React"/><br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" alt="Bootstrap"/><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" alt="Git"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass"/><br>Sass
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,7 +82,7 @@ This project highlights clean design, structured content, and interactive elemen
 
 Library/
 ├── css/                # Stylesheets
-├── images/             # Images & assets
+├── images/             # Hero, Featured, Categories, Footer, Demo GIF
 ├── webfonts/           # Fonts
 ├── index.html          # Main landing page
 └── README.md           # Documentation
@@ -48,7 +91,7 @@ Library/
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run Locally
 
 1️⃣ Clone the repository:
 
@@ -68,51 +111,57 @@ cd Library
 index.html
 ```
 
-No server required — just open in any modern browser.
+No server required — it's a static frontend project.
 
 ---
 
 ## 📱 Responsive Design
 
-The layout automatically adjusts to:
+The website adapts automatically to all screen sizes:
 
-* Desktops
+* Desktop monitors
 * Tablets
 * Mobile devices
 
-Providing a smooth experience on all devices.
+Ensuring a smooth and consistent experience.
 
 ---
 
-## 💡 Future Improvements
+## 💡 Future Enhancements
 
-* Create a book rating/review system
+* Backend integration (Node.js, Django, PHP)
+* Book search, filtering, and sorting
+* User login/authentication
+* Book reviews and rating system
 * Convert to React, Vue, or Angular
-* Add animations & transitions
-* Deploy online (GitHub Pages / Netlify / Vercel)
+* Add interactive animations & transitions
+* Deploy online (GitHub Pages, Netlify, Vercel)
 
 ---
 
-## 🎯 What You Will Learn
+## 🎯 Learning Outcomes
+
+By building this project, you will strengthen skills in:
 
 * Semantic HTML structure
 * Modern CSS layouts (Flexbox & Grid)
-* Responsive design principles
-* DOM manipulation with JavaScript
-* Frontend project organization and structure
-* UI/UX design best practices
+* Responsive web design
+* JavaScript DOM manipulation
+* Frontend project organization
+* UI/UX design principles
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Fork the repo and submit a pull request.
+Contributions, suggestions, and improvements are welcome!
+Fork the repository and submit a pull request.
 
 ---
 
 ## ⭐ Support
 
-If you find this project useful or inspiring, please consider giving it a star on GitHub ⭐
+If you enjoyed this project or found it useful, please give it a star on GitHub ⭐
 
 ---
 
@@ -121,7 +170,4 @@ If you find this project useful or inspiring, please consider giving it a star o
 **Fares Soliman**
 GitHub: [https://github.com/FaresSoliman99](https://github.com/FaresSoliman99)
 
-```
 
----
-```
