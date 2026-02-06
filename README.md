@@ -12,7 +12,7 @@ This project highlights clean design, structured content, and interactive elemen
 ## ✨ Project Highlights
 
 - Responsive layout (Desktop / Tablet / Mobile)  
-- Clean and modern UI/UX  
+- Clean and modern UI/UX ش 
 - Navigation bar, featured books, categories, and footer sections  
 - Smooth scrolling & interactive buttons  
 - Easy-to-read typography and structured content  
